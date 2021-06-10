@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 65431-h/images/cover.jpg
 creator:
   author:
     agent_name: Henning, Friedrich
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '53342'
     url: http://www.gutenberg.org/2009/agents/53342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65431#The-Maid-of-Orleans
 gutenberg_issued: '2021-05-23'
 gutenberg_type: Text
 identifiers:
