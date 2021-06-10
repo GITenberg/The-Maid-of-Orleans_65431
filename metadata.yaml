@@ -1,0 +1,35 @@
+_repo: The-Maid-of-Orleans_65431
+_version: 0.0.1
+alternative_title: Die Jungfrau von Orleans. English
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Henning, Friedrich
+    alias: Henning, Frederick
+    gutenberg_agent_id: '53342'
+    url: http://www.gutenberg.org/2009/agents/53342
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life Stories for Young People
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Juvenile literature'
+- !lcsh 'Christian saints -- France -- Biography -- Juvenile literature'
+- !lcc 'DC'
+- GITenberg
+title: The Maid of Orleans
+url: http://www.gutenberg.org/ebooks/65431
